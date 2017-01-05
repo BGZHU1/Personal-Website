@@ -1,1 +1,1 @@
-This is my personal website use CSS and HTML
+This is my personal website uses CSS and HTML
